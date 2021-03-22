@@ -1,0 +1,11 @@
+{
+  "name": "api-task",
+  "version": "1.0.0",
+  "description": "A tutorial going through an api call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
