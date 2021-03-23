@@ -23,8 +23,8 @@ Please note that this project has only been tested in Mac and Linux environments
 1. Clone the Git repository and change to the new directory that has been created:
 
    ```bash
-   git clone NEED TO DO THIS
-   cd NEED TO DO THIS
+   git clone git@github.com:jamiebrown201/junior-squad-week-3.git
+   cd junior-squad-week-3
    ```
 
 2. Install all of the project dependencies and create configuration files:
@@ -63,7 +63,7 @@ After you have completed this we want you to make a new page where instead of ge
 https://official-joke-api.appspot.com/random_ten
 ```
 
-So in our app we want you to add a new route in express so when you go to http://localhost:4040/ten you get 10 jokes instead of just 1.
+So in our app we want you to add a new function in your `jokeApi.js` and a new route in express so when you go to http://localhost:4040/ten you get 10 jokes instead of just 1.
 
 ## Userful resources
 
