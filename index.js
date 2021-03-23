@@ -13,7 +13,7 @@ app.engine("html", handlebarsInstance.engine);
 app.set("view engine", "html");
 
 app.get("/", (req, res) => {
-  res.render("home");
+  res.render("home", {});
 });
 
 app.listen(port, () => {
