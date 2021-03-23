@@ -14,7 +14,7 @@ const handlebarsInstance = exphbs.create({
 app.engine("html", handlebarsInstance.engine);
 app.set("view engine", "html");
 
-app.get("/", (req, res) => {
+app.get("/", async (req, res) => {
   // use the jokeApi required above to call a function that will return the result of the API call.
   res.render("home", {});
 });

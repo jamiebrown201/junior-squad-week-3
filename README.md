@@ -49,7 +49,7 @@ We want you to display the joke provided by the Joke API on the apps homepage.
 https://official-joke-api.appspot.com/random_joke
 ```
 
-2. If you go to this link in your browser you will see the response you will be expecting to get back. You need to use this endpoint to make a `get` request using the request library [axios](https://github.com/axios/axios). I have set up a javascript file called `jokeApi.js` in the `lib` folder this is where you will want to make the request. You will have to understand what aysnc/await functions to do this is and ive added some resources at the bottom of this readme to guide you. Please reach out for help if you get stuck on this we can help explain.
+2. If you go to this link in your browser you will see the response you will be expecting to get back. You need to use this endpoint to make a `get` request using the request library [axios](https://github.com/axios/axios). I have set up a javascript file called `jokeApi.js` in the `lib` folder this is where you will want to make the request. You will have to understand what aysnc/await functions to do this is and ive added some resources at the bottom of this readme to guide you (Alternitively you could use promises if you are more familiar with that syntax). Please reach out for help if you get stuck on this we can help explain.
 
 3. You will then need to pass the result of that call down to the home view and display it on the `home.html` page where ive put a placeholder for `setup` and `punchline`.
 
