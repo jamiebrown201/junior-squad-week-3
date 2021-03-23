@@ -8,7 +8,7 @@ Jamie Brown and Ania Bebb are here to help you at any point from 10:00AM to 12:3
 
 We've setup an application already for you which will run a web server. The web server can respond to requests from `http://localhost:4040/` and that has already been set up for you in `index.js`.
 
-### Requirements
+## Requirements
 
 To get started on working with the project, you'll need to make sure you have the following software tools installed.
 
@@ -18,7 +18,7 @@ To get started on working with the project, you'll need to make sure you have th
 
 Please note that this project has only been tested in Mac and Linux environments. If you are on a Mac you may find it easiest to install the [Command Line Tools](https://developer.apple.com/download/more/) package which includes Git.
 
-### How do I set up the project?
+## How do I set up the project?
 
 1. Clone the Git repository and change to the new directory that has been created:
 
@@ -39,7 +39,7 @@ Please note that this project has only been tested in Mac and Linux environments
    npm run dev
    ```
 
-### What do I need to do?
+## What do I need to do?
 
 We want you to display the joke provided by the Joke API on the apps homepage.
 
@@ -55,7 +55,7 @@ https://official-joke-api.appspot.com/random_joke
 
 4. If you have done this correctly you should be able to see a new joke everytime you refresh the page.
 
-## Stretch goal
+### Stretch goal
 
 After you have completed this we want you to make a new page where instead of getting just one joke you get TEN jokes. The new endpoint you will be using is:
 
@@ -65,7 +65,7 @@ https://official-joke-api.appspot.com/random_ten
 
 So in our app we want you to add a new route in express so when you go to http://localhost:4040/ten you get 10 jokes instead of just 1.
 
-### Userful resources
+## Userful resources
 
 - To understand how to make api requests you will need to understand how javascript interprets your code. Javascript is asyncronous and you can find more information on what these means [here](https://blog.logrocket.com/understanding-asynchronous-javascript/). [Here](https://www.youtube.com/watch?v=PoRJizFvM7s) is a nice video if you prefer to follow along with that. Specifially we are using async/await to handle our request and here is a quick introduction to that [here](https://javascript.info/async-await). Please also reach out to us if you want help explaining this, it is a tricky concept.
 
