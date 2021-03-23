@@ -1,6 +1,6 @@
 # Junior Squad Week 3: This site is a Joke - using an api in javascript
 
-Hello Juniors. We are ready for our next tutorial! This week we are going to be helping to create a Joke app, which will display a new joke every time you refresh the app. We are going to be using an [API](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/) which will provide you with a Joke in [JSON]() format. You will then use this joke to display it on the home page or the app.
+Hello Juniors. We are ready for our next tutorial! This week we are going to be helping to create a Joke app, which will display a new joke every time you refresh the app. We are going to be using an [API](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/) which will provide you with a Joke in [JSON]() format. You will then use this joke to display it on the home page of the app.
 
 Jamie Brown and Ania Bebb are here to help you at any point from 10:00AM to 12:30PM on a wednesday. Please dont hesitate to reach out at any point. We can jump on calls or answer slack messages so please reach out if you are stuck. _Remember there is no such thing as a stupid question._
 
