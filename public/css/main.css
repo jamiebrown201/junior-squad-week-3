@@ -1,0 +1,15 @@
+body {
+  background-color: #fa003f;
+  font-family: "MetricWeb", sans-serif;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  background-color: #ffcf00;
+  color: darkslategray;
+}
+
+.logo {
+  font-family: "FinancierDisplayWeb", serif;
+}
